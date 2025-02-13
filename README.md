@@ -7,22 +7,20 @@
 I'm a software engineering student, currently halfway through my degree. I'm expanding my knowledge in front-end and back-end development. I love building new things and improving existing ones.
 * **I am interested in web design, native app development, and digital marketing.**
 - 🌱 I’m currently learning: 
-  - Laravel
-  - React js
-  - Java
-- 👯 I’m looking forward to collaborate on open source projects.
+  - Spring Boot
+- 👯 I’m looking forward to collaborate on every kind of projects.
 - ✔ Ask me about anything, I am happy to help!<br>
 - Outside of tech, I enjoy walking 🚶‍♂️, playing video games 🎮, writing novels ✒️, and reading 📖.
-- 📫 Reach out to me at: <a href="cousingamersxdxd@gmail.com">cousingamersxdxd@gmail.com</a>
+- 📫 Reach out to me at: <a href="nahummejiad@gmail.com">nahummejiad@gmail.com</a>
 ## My Skills Include
 
 <h4> Languages </h4>
 <span> 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </span>
 
@@ -42,6 +40,7 @@ I'm a software engineering student, currently halfway through my degree. I'm exp
 <span>
 <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 
 
 <h4> Other Tools and Technologies </h4>
@@ -49,7 +48,9 @@ I'm a software engineering student, currently halfway through my degree. I'm exp
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)">
+  
 </span>
 
 ## Check out my Social Media
