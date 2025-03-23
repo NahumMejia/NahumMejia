@@ -55,7 +55,8 @@
   </td>
 </tr>
 </table>
-</p>        
+</p>
+
 <!--- stats (end) -->
 
 <!--h1 without bottom border-->
