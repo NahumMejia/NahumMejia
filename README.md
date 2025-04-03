@@ -30,7 +30,7 @@
 
 - Outside of tech, I enjoy walking 🚶‍♂️, playing video games 🎮, writing novels ✒️, and reading 📖.
 
-- ✔ Ask me about anything, I am happy to help!
+- ✔ Ask me about anything, I'm happy to help!
 
 - 📫 Reach out to me at: <a href="nahummejiad@gmail.com">nahummejiad@gmail.com</a>
 
