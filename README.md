@@ -68,7 +68,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,laravel,react,spring,mysql,sqlite,mongodb,git,tailwind,figma,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,laravel,react,mysql,sqlite,mongodb,git,tailwind,figma,docker&perline=14" />
   </a>
 </p>
 <!--end tech stack icons-->
