@@ -18,7 +18,6 @@
     <summary><h2 style="display: inline-block">About me!</h2></summary>
   </ul>
 </div>
-
 <!--Intro start-->
 - 🔭 I’m currently working on **Laravel, React, React Native, MongoDB, MySQL**
 
@@ -33,7 +32,6 @@
 - 📫 Reach out to me at: <a href="nahummejiad@gmail.com">nahummejiad@gmail.com</a>
 
 <!--Intro end-->
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
