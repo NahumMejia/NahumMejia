@@ -11,14 +11,12 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">About me!</h2></summary>
   </ul>
-</div>
-
+</div
 <!--Intro start-->
 - 🔭 I’m currently working on **Laravel, React, React Native, MongoDB, MySQL**
 
