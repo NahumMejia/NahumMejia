@@ -29,7 +29,6 @@
 - ✔ Ask me about anything, I'm happy to help!
 
 - 📫 Reach out to me at: <a href="nahummejiad@gmail.com">nahummejiad@gmail.com</a>
-
 <!--Intro end-->
 <!--- stats & Trophy (start) -->
 <p align="center">
