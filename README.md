@@ -17,7 +17,6 @@
     <summary><h2 style="display: inline-block">About me!</h2></summary>
   </ul>
 </div
-  
 <!--Intro start-->
 - 🔭 I’m currently working on **Laravel, React, React Native, MongoDB, MySQL**
 
