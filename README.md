@@ -18,9 +18,9 @@
   </ul>
 </div
 <!--Intro start-->
-- 🔭 I’m currently working on **Laravel, React, React Native, MongoDB, MySQL**
+- 🔭 I’m currently working on **Laravel, React, MySQL**
 
-- 🌱 I’m currently learning **Spring, Spring Boot and Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking forward to collaborate on every kind of projects
 
